@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @codeblv
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Blockchain
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me: Github/Odysee
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like playing the guitar
